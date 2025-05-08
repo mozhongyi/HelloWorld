@@ -1,0 +1,5 @@
+Class sheep
+{
+    sheep();
+    ~sheep();
+}
